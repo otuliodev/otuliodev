@@ -1,7 +1,5 @@
 ## Ola! Eu sou o Marco Tulio 👋
 
-- 💻 Dev em formação
-## 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otuliodev&show_icons=true&theme=dark)](https://github.com/otuliodev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otuliodev&show_icons=true&theme=dark)](https://github.com/otuliodev/github-readme-stats)
 
@@ -19,5 +17,3 @@
   <a href = "otulioadtech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mtuliou/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/otuliodev/otuliodev/blob/output/github-contribution-grid-snake.svg)
