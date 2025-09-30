@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Marco Tulio 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otuliodev&show_icons=true&theme=dark)](https://github.com/otuliodev/otuliodev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otuliodev&show_icons=true&theme=dark)](https://github.com/otuliodev/otuliodev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otuliodev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otuliodev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
